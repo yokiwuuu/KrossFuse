@@ -1,4 +1,4 @@
-# KrossFuse
+# RP-KrossFuse
 
 Official Code for **"Fusing Cross-modal and Uni-modal Representations: A Kronecker Product Approach"**
 
