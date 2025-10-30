@@ -1,6 +1,6 @@
 # RP-KrossFuse
 
-Official Code for **"Fusing Cross-modal and Uni-modal Representations: A Kronecker Product Approach"**
+Official Code for **"When Kernels Multiply, Clusters Unify: Fusing Embeddings with the Kronecker Product"**
 
 ---
 
